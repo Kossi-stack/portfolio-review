@@ -13,9 +13,9 @@ To use this project and running it localy, follow the steps bellow:
  - A text editor(preferably Visual Studio Code)
 #### Clone this repository
 
-`git clone https://github.com/Kandy-Peter/cr_portfolio_review.git`
+`git clone git@github.com:Kossi-stack/portfolio-review.git`
 
-`cd cr_portfolio_review`
+`cd portfolio-review`
 
 #### Open page in browser
 ```bash
@@ -25,17 +25,16 @@ $ runs on http://localhost:8000/
 
 ## Author
 
-👤 **Kandi Peter**
+👤 **Kossi-Stack**
 
-- GitHub: [Kandi-Peter](https://github.com/Kandy-Peter)
-- LinkedIn: [Kandi-Kamuntu](https://www.linkedin.com/in/kandi-peter-a49590212/)
-- twitter: [Kandi_Peter](https://twitter.com/peter_kandy)
+- GitHub: [@githubhandle](https://github.com/Kossi-stack/Mobile_Version_Skeleton)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kossi-stack/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+
 
 ## Show your support
 
