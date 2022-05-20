@@ -5,7 +5,7 @@ navigation.addEventListener('click', () => {
   body.classList.toggle('open-menu');
 });
 
-const menuLink = document.querySelectorAll('nav-link');
+const menuLink = document.querySelectorAll('.nav-link');
 
 menuLink.forEach((e) => e.addEventListener('click', () => {
   body.classList.remove('open-menu');
