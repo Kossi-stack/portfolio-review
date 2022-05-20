@@ -1,4 +1,5 @@
 # curriculum-cr-training-mobile-menu
+This Project is about training to become a code reviewer at Microverse.
 
 ## Built With
 
